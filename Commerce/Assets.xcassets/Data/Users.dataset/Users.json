@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "role": "賣家",
+        "name": "Smith（史密斯）",
+        "email": "Smith@test.com",
+        "password": "Smith"
+    },
+    {
+        "id": 2,
+        "role": "賣家",
+        "name": "Jones（瓊斯）",
+        "email": "Jones@test.com",
+        "password": "Jones"
+    },
+    {
+        "id": 3,
+        "role": "賣家",
+        "name": "Williams（威廉斯）",
+        "email": "Williams@test.com",
+        "password": "Williams"
+    },
+    {
+        "id": 4,
+        "role": "賣家",
+        "name": "Taylor（泰勒）",
+        "email": "Taylor@test.com",
+        "password": "Taylor"
+    },
+    {
+        "id": 5,
+        "role": "賣家",
+        "name": "Brown（布朗）",
+        "email": "Brown@test.com",
+        "password": "Brown"
+    },
+    {
+        "id": 6,
+        "role": "賣家",
+        "name": "Davies（戴維斯）",
+        "email": "Davies@test.com",
+        "password": "Davies"
+    },
+    {
+        "id": 7,
+        "role": "賣家",
+        "name": "Evans（埃文斯）",
+        "email": "Evans@test.com",
+        "password": "Evans"
+    },
+    {
+        "id": 8,
+        "role": "賣家",
+        "name": "Wilson（威爾遜）",
+        "email": "Wilson@test.com",
+        "password": "Wilson"
+    },
+    {
+        "id": 9,
+        "role": "賣家",
+        "name": "Thomas（托馬斯）",
+        "email": "Thomas@test.com",
+        "password": "Thomas"
+    },
+    {
+        "id": 10,
+        "role": "賣家",
+        "name": "Johnson（詹森）",
+        "email": "Johnson@test.com",
+        "password": "Johnson"
+    },
+    {
+        "id": 11,
+        "role": "賣家",
+        "name": "Roberts（羅伯茨）",
+        "email": "Roberts@test.com",
+        "password": "Roberts"
+    },
+    {
+        "id": 12,
+        "role": "賣家",
+        "name": "Robinson（羅賓遜）",
+        "email": "Robinson@test.com",
+        "password": "Robinson"
+    },
+    {
+        "id": 13,
+        "role": "賣家",
+        "name": "Thompson（湯普森）",
+        "email": "Thompson@test.com",
+        "password": "Thompson"
+    },
+    {
+        "id": 14,
+        "role": "賣家",
+        "name": "Wright（賴特）",
+        "email": "Wright@test.com",
+        "password": "Wright"
+    },
+    {
+        "id": 15,
+        "role": "賣家",
+        "name": "Walker（沃克）",
+        "email": "Walker@test.com",
+        "password": "Walker"
+    },
+    {
+        "id": 16,
+        "role": "賣家",
+        "name": "White（懷特）",
+        "email": "White@test.com",
+        "password": "White"
+    },
+    {
+        "id": 17,
+        "role": "賣家",
+        "name": "Edwards（愛德華茲）",
+        "email": "Edwards@test.com",
+        "password": "Edwards"
+    },
+    {
+        "id": 18,
+        "role": "賣家",
+        "name": "Hughes（休斯）",
+        "email": "Hughes@test.com",
+        "password": "Hughes"
+    },
+    {
+        "id": 19,
+        "role": "賣家",
+        "name": "Green（格林）",
+        "email": "Green@test.com",
+        "password": "Green"
+    },
+    {
+        "id": 20,
+        "role": "賣家",
+        "name": "Hall（霍爾）",
+        "email": "Hall@test.com",
+        "password": "Hall"
+    },
+    {
+        "id": 21,
+        "role": "賣家",
+        "name": "Lewis（劉易斯）",
+        "email": "Lewis@test.com",
+        "password": "Lewis"
+    },
+    {
+        "id": 22,
+        "role": "賣家",
+        "name": "Harris（哈里斯）",
+        "email": "Harris@test.com",
+        "password": "Harris"
+    },
+    {
+        "id": 23,
+        "role": "賣家",
+        "name": "Clarke（克拉克）",
+        "email": "Clarke@test.com",
+        "password": "Clarke"
+    },
+    {
+        "id": 24,
+        "role": "賣家",
+        "name": "Patel（帕特爾）",
+        "email": "Patel@test.com",
+        "password": "Patel"
+    },
+    {
+        "id": 25,
+        "role": "賣家",
+        "name": "Jackson（傑克遜）",
+        "email": "Jackson@test.com",
+        "password": "Jackson"
+    },
+    {
+        "id": 26,
+        "role": "買家",
+        "name": "Aria",
+        "email": "Aria@test.com",
+        "password": "Aria"
+    },
+    {
+        "id": 27,
+        "role": "買家",
+        "name": "Abbie",
+        "email": "Abbie@test.com",
+        "password": "Abbie"
+    },
+    {
+        "id": 28,
+        "role": "買家",
+        "name": "Aurora",
+        "email": "Aurora@test.com",
+        "password": "Aurora"
+    },
+    {
+        "id": 29,
+        "role": "買家",
+        "name": "Ariana",
+        "email": "Ariana@test.com",
+        "password": "Ariana"
+    },
+    {
+        "id": 30,
+        "role": "買家",
+        "name": "Abigail",
+        "email": "Abigail@test.com",
+        "password": "Abigail"
+    },
+    {
+        "id": 31,
+        "role": "買家",
+        "name": "Alice",
+        "email": "Alice@test.com",
+        "password": "Alice"
+    },
+    {
+        "id": 32,
+        "role": "買家",
+        "name": "Ada",
+        "email": "Ada@test.com",
+        "password": "Ada"
+    },
+    {
+        "id": 33,
+        "role": "買家",
+        "name": "Ava",
+        "email": "Ava@test.com",
+        "password": "Ava"
+    },
+    {
+        "id": 34,
+        "role": "買家",
+        "name": "Ann",
+        "email": "Ann@test.com",
+        "password": "Ann"
+    },
+    {
+        "id": 35,
+        "role": "買家",
+        "name": "Anna",
+        "email": "Anna@test.com",
+        "password": "Anna"
+    },
+    {
+        "id": 36,
+        "role": "買家",
+        "name": "Amelia",
+        "email": "Amelia@test.com",
+        "password": "Amelia"
+    }
+]
